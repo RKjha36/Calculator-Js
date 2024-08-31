@@ -12,7 +12,7 @@
     display: flex;
     align-items: center;
     justify-content: center;
-    background: linear-gradient(to right, #ff69b4, #42a3e8);  /* Example: Green to Blue */
+    background: linear-gradient(to right, #ff69b4, #42a3e8);  
 }
 
 
